@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VikaWebsite/static/css/main.196758e4.chunk.css",
+    "main.js": "/VikaWebsite/static/js/main.d03893df.chunk.js",
+    "main.js.map": "/VikaWebsite/static/js/main.d03893df.chunk.js.map",
+    "runtime-main.js": "/VikaWebsite/static/js/runtime-main.3af19bb2.js",
+    "runtime-main.js.map": "/VikaWebsite/static/js/runtime-main.3af19bb2.js.map",
+    "static/js/2.387efb77.chunk.js": "/VikaWebsite/static/js/2.387efb77.chunk.js",
+    "static/js/2.387efb77.chunk.js.map": "/VikaWebsite/static/js/2.387efb77.chunk.js.map",
+    "index.html": "/VikaWebsite/index.html",
+    "static/css/main.196758e4.chunk.css.map": "/VikaWebsite/static/css/main.196758e4.chunk.css.map",
+    "static/js/2.387efb77.chunk.js.LICENSE.txt": "/VikaWebsite/static/js/2.387efb77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3af19bb2.js",
+    "static/js/2.387efb77.chunk.js",
+    "static/css/main.196758e4.chunk.css",
+    "static/js/main.d03893df.chunk.js"
+  ]
+}

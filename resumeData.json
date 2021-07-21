@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Victoria Brandes",
+  
+    "description": "Hello, i am a munich based Webdeveloper who loves to create wonderfull websitess and applications",
+    "image": "./images/profile-pic.jpg",
+    "bio": "I am 27 years old and have done a three-month bootcamp for web development, because the mainly theoretical part of my studies was not enough for me. I always wanted and wanted to program and now I have a basic framework and can build on it. Here I can bring in my creativity, flexibility and my love for challenges.Every day while coding I get excited about new technologies, like animations with three.js. I forget the time when I'm programming.",
+    "contactmessage": "Do you wanne hear more, or work with me? Feel free to contact me",
+    "email": "vick.brandes@gmail.com",
+    "phone": "015770908069",
+    "address": {
+     
+      "city": "Munich",
+      "state": "Bayern",
+      "zip": "81829"
+    },
+    "website": "http://www.vikaBrandesDev.com",
+    "resumedownload": "www.vikaBrandesDev.com",
+    "social": [
+
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/VictoriaBrandes/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/amaroniaaa",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/VikaBrandes",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universität Frankfurt",
+        "degree": "Kunstgeschichte und Archäologie",
+        
+        "description": "i did my studies without a degree as a personal interest, art and culture fascinates and inspires me "
+      },
+      {
+        "school": "Iubh",
+        "degree": "Wirtschaftsinformatik",
+
+        "description": "i did not finish this study, i just want to code :) "
+      }
+    ],
+    "work": [
+      {
+        "company": "Tabak Sommer München",
+        "title": "Marketing and Cigarexpert ",
+        "years": "September 2019 - April 2021",
+        "description": "Marketing, Newsletter, Customer-relations, Shopware"
+      },
+      {
+        "company": "Neue Fische GmbH",
+        "title": "Trainee WebDevelopment",
+        "years": "April 2021 - July 2021",
+        "description": "Bootcamp to become a certificte Webdeveloper, created my own React App Wavehunter"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Wavehunter",
+        "category": "Travelapp to catch the best Waves",
+        "image": "Victoria_Brandes_Wavehunter.gif"
+      
+      },
+    
+{     
+        "title": "Resume Website",
+        "category": "A React based resume website"
+      
+    
+      }
+  
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Frau Brandes hat einer sehr gute Auffassungsgabe.Sie lernt schnell und arbeitet fleißig, gewissenhaft und engagiert. Belastbarkeit und Loyalität sind ihre Stärken.",
+        "user": "Harald Sommer"
+      },
+    {
+      "text": "Frau Brandes Kreaativität wird jeden bezaubern",
+      "user": "Markus Brugger"
+    }
+
+    ]
+  }
+}
