@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Victoria Brandes",
-    "occupation": "(Your Occupation Here)",
+  
     "description": "Hello, i am a munich based Webdeveloper who loves to create wonderfull websitess and applications",
     "image": "./images/profile-pic.jpg",
     "bio": "I am 27 years old and have done a three-month bootcamp for web development, because the mainly theoretical part of my studies was not enough for me. I always wanted and wanted to program and now I have a basic framework and can build on it. Here I can bring in my creativity, flexibility and my love for challenges.Every day while coding I get excited about new technologies, like animations with three.js. I forget the time when I'm programming.",
@@ -53,7 +53,7 @@
         "school": "Iubh",
         "degree": "Wirtschaftsinformatik",
 
-        "description": "i did not finish this study, it was too theoretical for me"
+        "description": "i did not finish this study, i just want to code :) "
       }
     ],
     "work": [
@@ -124,7 +124,11 @@
       {
         "text": "Frau Brandes hat einer sehr gute Auffassungsgabe.Sie lernt schnell und arbeitet fleißig, gewissenhaft und engagiert. Belastbarkeit und Loyalität sind ihre Stärken.",
         "user": "Harald Sommer"
-      }
+      },
+    {
+      "text": "Frau Brandes Kreaativität wird jeden bezaubern",
+      "user": "Markus Brugger"
+    }
 
     ]
   }
