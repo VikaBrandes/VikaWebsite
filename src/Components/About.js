@@ -13,7 +13,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      
     }
 
     return (
@@ -25,24 +25,20 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p>I am 27 years old and have done a three-month bootcamp for web development, because the mainly theoretical part of my studies was not enough for me. I always wanted and wanted to program and now I have a basic framework and can build on it. Here I can bring in my creativity, flexibility and my love for challenges.Every day while coding I get excited about new technologies, like animations with three.js. I forget the time when I'm programming.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>Victoria Brandes</span><br />
+						   <span>Oslostraße 12<br />
+						         München 81829 
                    </span><br />
 						   <span>{phone}</span><br />
-                     <span>{email}</span>
+                     <span>vick.brandes@gmail.com</span>
 					   </p>
                </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
-               </div>
+              
             </div>
          </div>
       </div>

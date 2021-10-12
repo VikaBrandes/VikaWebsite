@@ -8,8 +8,8 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
-
 import DotRing from "./Components/DotRing"
+import "./resumeData.json"
 
 
 class App extends Component {
